@@ -2,7 +2,7 @@
 
 I-AM is a two-dimensional programming language inspired by [Befunge](https://esolangs.org/wiki/Befunge) and the author's insomnia caused by a looming sense of dread and [existential questioning](https://davidnunez.com/the-global-derealization).
 
-This language for programmers to investigate whether or not they and everything they know in their World are real.
+This language helps programmers investigate whether or not they and everything they know in their World are real.
 
 ## The World
 
