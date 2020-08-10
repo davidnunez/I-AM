@@ -55,7 +55,7 @@ Raised among city lights, the programmer has never seen the night sky in its ful
 
 At this moment, as the edges of space and earth intermingle in the programmer's mind, the programmer will scream out "Hello World" at the heavens. The universe will not shout back. 
 
-The programmer is drenched in their sweat. Indeed, the early morning hours are no respite for the Belizian humidity. The programmer calls out again, "Hello World." 
+The programmer is drenched in their sweat. Indeed, the early morning hours are no respite from the Belizian humidity. The programmer calls out again, "Hello World." 
 
 The jungle has never been as still. Then a single shooting star rips across space. 
 
