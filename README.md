@@ -91,7 +91,7 @@ These are four I-AM programs that are computationally equivalent. The author bel
 
 ## Caution about the Null Hypothesis
 
-Note that if a programmer successfully authors a program that successfully runs on a World of dimensions (0,0),  it is likely they have achieved a singularity where they have written all of the programs and none of the programs at once. 
+Note that if a programmer authors a program that successfully runs on a World of dimensions (0,0),  it is likely they have achieved a singularity where they have written all of the programs and none of the programs at once. 
 
 Thus, it is an open question if the creator of such a program will continue to exist or if they ever existed at all.
 
